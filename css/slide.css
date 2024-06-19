@@ -1,6 +1,6 @@
 .mySlides {
     display: none;
-    height: 400px;
+    height: 100%;
     box-shadow: 0px 10px 9px 0px var(--just-black);
     border-radius: 20px;
   }
