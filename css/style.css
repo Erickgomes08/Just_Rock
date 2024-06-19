@@ -12,13 +12,13 @@
     padding: 0;
 }
 
-:root{
-    --background:#181818 ;
-    --primary-color:#BD202C;
-    --just-white:#e8e1e1;
-    --main-font:'Libre Baskerville';
-    --sec-font:'Rubik';
-    --third-font:'Roboto Mono';
+:root {
+    --background: #181818;
+    --primary-color: #BD202C;
+    --just-white: #e8e1e1;
+    --main-font: 'Libre Baskerville';
+    --sec-font: 'Rubik';
+    --third-font: 'Roboto Mono';
 }
 
 body {
@@ -28,5 +28,3 @@ body {
     overflow-x: hidden;
     font-family: var(--sec-font);
 }
-
-

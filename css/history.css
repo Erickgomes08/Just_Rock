@@ -1,51 +1,49 @@
-.history{
+.history {
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
-.introducao{
+.introducao {
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
-.introducao img{
+.introducao img {
     width: 15%;
 }
 
-.title{
+.title {
     font-family: var(--sec-font);
     text-transform: uppercase;
     color: var(--just-white);
     font-weight: 300;
 }
 
-.introducao_conteudo{
+.introducao_conteudo {
     text-align: center;
     color: var(--just-white);
-    font-family: var(  --third-font);
+    font-family: var(--third-font);
     font-size: 0.9rem;
-    padding:  0.8em;
+    padding: 0.8em;
 }
 
 .parte1,
 .parte2,
-.parte3{
-   display: flex;
-   flex-direction: column;
-   gap: 10px;
+.parte3 {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
 }
 
-.subtitle_conteudo{
-    font-family: var(  --sec-font);
+.subtitle_conteudo {
+    font-family: var(--sec-font);
     font-size: 1.4rem;
 }
 
-.sub-subtitle{
-    font-family: var(  --third-font);
+.sub-subtitle {
+    font-family: var(--third-font);
     font-size: 1rem;
     font-weight: 200;
 }
-
-
