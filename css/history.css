@@ -31,7 +31,7 @@
     color: var(--just-white);
     font-family: var(--third-font);
     font-size: 0.9rem;
-    padding: 0.8em;
+    padding: 2em;
 }
 
 .parte1,
@@ -48,14 +48,9 @@
     font-size: 0.9rem;
 }
 
-.imagem_conteudo{
-    width: 30%;
-    margin-left: auto;
-    margin-right: auto;
-}
-
 .sub-subtitle {
     font-family: var(--third-font);
     font-size: 1rem;
     font-weight: 200;
 }
+
